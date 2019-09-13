@@ -2,6 +2,12 @@
  * Mobirise v4 theme (https://mobirise.com/)
  * Copyright 2017 Mobirise
  */
+
+.front-styling {
+  margin-top: 25%;
+  background-color: #123c69;
+}
+
 section {
   background-color: #eeeeee;
 }
